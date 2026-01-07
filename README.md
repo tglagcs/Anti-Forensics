@@ -1,4 +1,4 @@
-# Anti-Forensics by [@lag_cs](https://t.me/lag_cs)
+# Anti-Forensics
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://mit-license.org/) ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg) ![Windows](https://img.shields.io/badge/Windows-10%2F11-green.svg)
 
@@ -46,13 +46,13 @@ The script covers a wide range of artifacts and is relevant as of 2026.
 ## 🚀 Execution
 In PowerShell:
 ```powershell
-& '.\Anti-Forensics by @lag_cs.ps1'
+& '.\Anti-Forensics.ps1'
 ```
 
 ---
 **Community feedback and suggestions are welcome** 🤗🐢
 
-**Author: @lag_cs** 🐱‍💻  
+**Author: [@lag_cs](https://t.me/lag_cs)** 🐱‍💻  
 **Special thanks: ChatGPT, Grok, DeepSeek** 🤖
 
 **Tags:** #anti-forensics #windows-forensics #powershell #dfir #redteam #windows-recall #recallwipers #opsec #artifactswipe #timestomping #shadowcopies #eventlogs #amcache #shimcache #srum #prefetch #blueteam #purpleteam #incident-response #windows-security
